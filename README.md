@@ -4,5 +4,7 @@ The smart contract was created to carry out the blocking of transactions of the 
 Smart contract valid for Waves, Bicon and eVESTX Mainchain blockchain
 
 Waves -> smart-contract.ride
+
 Bicon -> smart-contract.bicon
+
 eVESTX Mainchain -> smart-contract.bread
